@@ -16,7 +16,7 @@
   <a href="https://t.me/shelljess" target="_blank">
     <img src="https://img.shields.io/badge/-Telegram-black?style=plastic&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
- <a href="https://t.me/shelljess" target="_blank">
+ <a href="https://urhoeismine.live" target="_blank">
   <img src="https://img.shields.io/badge/-Website-black?style=plastic&logo=opera&logoColor=white" alt="Website" />
  </a>
 </p>
