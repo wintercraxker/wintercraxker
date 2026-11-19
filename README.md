@@ -23,7 +23,7 @@
   <a href="https://github.com/wintercraxker">
     <img src="https://img.shields.io/badge/-GitHub-black?style=plastic&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://discord.com/users/1213853205360943187">
+  <a href="https://discord.com/users/1204265766128455781">
     <img src="https://img.shields.io/badge/-Discord-black?style=plastic&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://t.me/shelljess">
