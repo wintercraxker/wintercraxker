@@ -1,3 +1,4 @@
+<img src="https://github.com/0xMeii/0xMeii/blob/main/Asa_Mitaka.png" width="200" img align="right" />
 <p align="center">
   <a href="https://discord.com/users/1213853205360943187"> 
     <img align="center" src="https://lanyard.kyrie25.dev/api/1213853205360943187?waveColor=222&waveSpotifyColor=212121&gradient=fff&borderRadius=25px&bg=000"/>
