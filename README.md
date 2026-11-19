@@ -63,15 +63,15 @@
     <tr>
       <td align="center" valign="middle" width="50%">
         <img
-          src="https://github-readme-stats.vercel.app/api?username=wintercraxker&show_icons=true&theme=dark&hide_border=true&card_width=350"
+          src="https://ghstats.dev/api/card?username=wintercraxker&theme=catppuccin&border_radius=11.5&hide=followers%2Cissues%2Cgrade%2Cactive_day%2Cavg%2Crepos%2Cprs"
           width="350"
           alt="GitHub Stats"
         />
       </td>
       <td align="center" valign="middle" width="50%">
         <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=wintercraxker&layout=compact&theme=dark&hide_border=true&card_width=350&langs_count=6&hide_title=true"
-          width="350"
+          src="https://ghstats.dev/api/langs?username=wintercraxker&theme=catppuccin&layout=donut"
+          width="390"
           alt="Most Used Languages"
         />
       </td>
