@@ -54,6 +54,7 @@
 
 <br>
 
+
 <!-- GitHub Statistics -->
 <h3 align="center">〢 📊 GitHub Statistics</h3>
 
@@ -62,18 +63,19 @@
     <tr>
       <td align="center" valign="middle" width="50%">
         <img
-          src="https://github-readme-stats.vercel.app/api?username=wintercraxker&show_icons=true&theme=dark&hide_border=true"
-          width="390"
+          src="https://github-readme-stats.vercel.app/api?username=wintercraxker&show_icons=true&theme=dark&hide_border=true&card_width=350"
+          width="350"
           alt="GitHub Stats"
         />
       </td>
       <td align="center" valign="middle" width="50%">
         <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=wintercraxker&layout=compact&theme=dark&hide_border=true"
-          width="390"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=wintercraxker&layout=compact&theme=dark&hide_border=true&card_width=350&langs_count=6&hide_title=true"
+          width="350"
           alt="Most Used Languages"
         />
       </td>
     </tr>
   </table>
 </div>
+
