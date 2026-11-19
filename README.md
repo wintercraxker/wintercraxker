@@ -12,26 +12,31 @@
     />
   </a>
 
-  <br><br>
+
+<!-- Profile Views -->
+<p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=wintercraxker&color=gray&style=plastic"
+    src="https://komarev.com/ghpvc/?username=wintercraxker&label=Views&color=292D36&labelColor=17191F&style=flat-square"
     alt="Profile Views"
   />
+</p>
 
-  <br><br>
-
+<!-- Social Links -->
+<p align="center">
   <a href="https://github.com/wintercraxker">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=plastic&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-20232B?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://discord.com/users/1204265766128455781">
-    <img src="https://img.shields.io/badge/-Discord-black?style=plastic&logo=discord&logoColor=white" alt="Discord" />
+  <a href="https://discord.com/users/1213853205360943187">
+    <img src="https://img.shields.io/badge/Discord-20232B?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://t.me/shelljess">
-    <img src="https://img.shields.io/badge/-Telegram-black?style=plastic&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-20232B?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://urhoeismine.live/">
-    <img src="https://img.shields.io/badge/-Website-black?style=plastic&logo=opera&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-20232B?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
+</p>
+
 
 </div>
 
