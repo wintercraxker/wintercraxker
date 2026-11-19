@@ -1,13 +1,12 @@
-<img src="https://github.com/0xMeii/0xMeii/blob/main/Asa_Mitaka.png" width="200" img align="right" />
+<img src="imgr/Asa_Mitaka.png" width="200" align="right" />
+
 <p align="center">
-  <a href="https://discord.com/users/1213853205360943187"> 
-    <img align="center" src="https://lanyard.kyrie25.dev/api/1213853205360943187?waveColor=222&waveSpotifyColor=212121&gradient=fff&borderRadius=25px&bg=000"/>
+  <a href="https://discord.com/users/1204265766128455781">
+    <img align="center" src="https://lanyard.kyrie25.dev/api/1204265766128455781?waveColor=222&waveSpotifyColor=212121&gradient=fff&borderRadius=25px&bg=000" />
   </a>
-  <br>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=wintercraxker&color=gray&style=plastic" alt=":name" />
-  <br>
-  <br>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=wintercraxker&color=gray&style=plastic" alt="Profile Views" />
+  <br><br>
   <a href="https://github.com/wintercraxker">
     <img src="https://img.shields.io/badge/-GitHub-black?style=plastic&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -20,4 +19,19 @@
   <a href="https://urhoeismine.live/">
     <img src="https://img.shields.io/badge/-Website-black?style=plastic&logo=opera&logoColor=white" alt="Website" />
   </a>
+</p>
+
+<br>
+
+<h3 align="center">〢 🛠️ Tech Stack & Skills</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,python,mysql,postgres,prisma,nodejs,git,github,vscode&perline=8" alt="Tech Stack" />
+</p>
+
+<h3 align="center">〢 📊 GitHub Statistics</h3>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wintercraxker&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wintercraxker&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
