@@ -37,7 +37,7 @@
       alt="GitHub"
     />
   </a>
-  <a href="https://discord.com/users/1213853205360943187">
+  <a href="https://discord.com/users/1204265766128455781">
     <img
       src="imgr/badge-discord.png"
       width="110"
