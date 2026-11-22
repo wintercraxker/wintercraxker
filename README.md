@@ -1,3 +1,4 @@
+
 <!-- ===================== W/NTER ===================== -->
 
 <!-- Asa Mitaka — Main Character -->
@@ -55,12 +56,11 @@
 
 <!-- ===================== TECH STACK ===================== -->
 
-<h3 align="center">〢 🛠️ Tech Stack & Skills</h3>
-
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,python,mysql,postgres,prisma,nodejs,git,github,vscode&perline=8"
-    alt="Tech Stack & Skills"
+    src="imgr/tech_stack.png"
+    width="650"
+    alt="W/NTER — Manga Tech Stack"
   />
 </p>
 
