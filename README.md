@@ -1,22 +1,29 @@
-<!-- Asa Mitaka -->
-<img src="imgr/Asa_Mitaka.png" width="200" align="right" />
+<!-- ===================== W/NTER ===================== -->
 
-<!-- Discord, Profile Views & Social Links -->
-<div align="center">
+<!-- Asa Mitaka — Main Character -->
+<img
+  src="imgr/Asa_Mitaka.png"
+  width="190"
+  align="right"
+  alt="Asa Mitaka"
+/>
 
-  <a href="https://discord.com/users/1204265766128455781">
-    <img
-      src="https://lanyard.kyrie25.dev/api/1204265766128455781?waveColor=222&waveSpotifyColor=212121&gradient=fff&borderRadius=25px&bg=000"
-      width="400"
-      alt="Discord Status"
-    />
-  </a>
+<!-- Introduction -->
+<h1 align="center">w/nter.</h1>
 
+<p align="center">
+  <strong>Software Developer</strong>
+</p>
+
+<p align="center">
+  <em>Building things for the web, exploring new ideas<br>
+  and contributing to open source.</em>
+</p>
 
 <!-- Profile Views -->
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=wintercraxker&label=Views&color=292D36&labelColor=17191F&style=flat-square"
+    src="https://komarev.com/ghpvc/?username=wintercraxker&label=PROFILE%20VIEWS&color=292D36&labelColor=17191F&style=flat-square"
     alt="Profile Views"
   />
 </p>
@@ -38,11 +45,8 @@
 </p>
 
 
-</div>
+<!-- ===================== TECH STACK ===================== -->
 
-<br>
-
-<!-- Tech Stack -->
 <h3 align="center">〢 🛠️ Tech Stack & Skills</h3>
 
 <p align="center">
@@ -54,8 +58,9 @@
 
 <br>
 
-<br>
-<!-- GitHub Statistics -->
+<!-- ===================== GITHUB STATISTICS ===================== -->
+
+
 <h3 align="center">〢 📊 GitHub Statistics</h3>
 
 <div align="center">
@@ -79,3 +84,34 @@
   </table>
 </div>
 
+<br>
+
+<!-- ===================== DISCORD ACTIVITY ===================== -->
+
+<h3 align="center">〢 Discord Activity</h3>
+
+<p align="center">
+  <a href="https://discord.com/users/1204265766128455781">
+    <img
+      src="https://lanyard.kyrie25.dev/api/1204265766128455781?waveColor=222&waveSpotifyColor=212121&gradient=fff&borderRadius=25px&bg=000"
+      width="340"
+      alt="Discord Activity"
+    />
+  </a>
+</p>
+
+<br>
+
+<!-- ===================== ASA CHIBI FOOTER ===================== -->
+
+<p align="center">
+  <sub>THANKS FOR VISITING · W/NTER</sub>
+</p>
+
+<p align="center">
+  <img
+    src="imgr/asa-chibi-hanging-wave.gif"
+    width="800"
+    alt="Asa Mitaka Chibi Hanging Wave"
+  />
+</p>
