@@ -1,6 +1,6 @@
 <!-- ===================== W/NTER ===================== -->
 
-<!-- Asa Mitaka -->
+<!-- Asa Mitaka — Main Character -->
 <img
   src="imgr/Asa_Mitaka.png"
   width="200"
@@ -8,11 +8,16 @@
   alt="Asa Mitaka"
 />
 
-<!-- Introduction -->
+<!-- W/NTER — Manga Logo -->
 <p align="center">
-  <strong style="font-size: 28px;">w/nter.</strong>
+  <img
+    src="imgr/w_nter.png"
+    width="420"
+    alt="w/nter — Software Developer"
+  />
 </p>
 
+<!-- Introduction -->
 <p align="center">
   <strong>Software Developer</strong>
 </p>
@@ -59,7 +64,7 @@
   />
 </p>
 
-<!-- End Asa floating area -->
+<!-- End Asa Floating Area -->
 <br clear="all">
 
 <!-- ===================== GITHUB STATISTICS ===================== -->
@@ -96,7 +101,7 @@
 <p align="center">
   <a href="https://discord.com/users/1204265766128455781">
     <img
-      src="https://lanyard.kyrie25.dev/api/1204265766128455781?waveColor=222&waveSpotifyColor=212121&gradient=fff&borderRadius=25px&bg=000"
+      src="https://lanyard.kyrie25.dev/api/1204265766128455781?waveColor=222&waveSpotifyWaveColor=212121&gradient=fff&borderRadius=25px&bg=000"
       width="340"
       alt="Discord Activity"
     />
