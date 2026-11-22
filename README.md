@@ -12,7 +12,7 @@
 <p align="center">
   <img
     src="imgr/w_nter.png"
-    width="420"
+    width="520"
     alt="w/nter — Software Developer"
   />
 </p>
