@@ -1,6 +1,6 @@
 <!-- ===================== W/NTER ===================== -->
 
-<!-- Asa Mitaka — Main Character -->
+<!-- Asa Mitaka -->
 <img
   src="imgr/Asa_Mitaka.png"
   width="200"
@@ -9,15 +9,19 @@
 />
 
 <!-- Introduction -->
-<h1 align="center">w/nter.</h1>
+<p align="center">
+  <strong style="font-size: 28px;">w/nter.</strong>
+</p>
 
 <p align="center">
   <strong>Software Developer</strong>
 </p>
 
 <p align="center">
-  <em>Building things for the web, exploring new ideas<br>
-  and contributing to open source.</em>
+  <em>
+    Building things for the web, exploring new ideas
+    and contributing to open source.
+  </em>
 </p>
 
 <!-- Profile Views -->
@@ -44,7 +48,6 @@
   </a>
 </p>
 
-
 <!-- ===================== TECH STACK ===================== -->
 
 <h3 align="center">〢 🛠️ Tech Stack & Skills</h3>
@@ -56,14 +59,15 @@
   />
 </p>
 
-<br>
+<!-- End Asa floating area -->
+<br clear="all">
 
 <!-- ===================== GITHUB STATISTICS ===================== -->
 
-
-<h3 align="center">〢 📊 GitHub Statistics</h3>
-
 <div align="center">
+
+  <h3>〢 📊 GitHub Statistics</h3>
+
   <table>
     <tr>
       <td align="center" valign="middle" width="50%">
@@ -82,9 +86,8 @@
       </td>
     </tr>
   </table>
-</div>
 
-<br>
+</div>
 
 <!-- ===================== DISCORD ACTIVITY ===================== -->
 
@@ -100,13 +103,7 @@
   </a>
 </p>
 
-<br>
-
 <!-- ===================== ASA CHIBI FOOTER ===================== -->
-
-<p align="center">
-  <sub>THANKS FOR VISITING · W/NTER</sub>
-</p>
 
 <p align="center">
   <img
