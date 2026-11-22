@@ -9,7 +9,7 @@
   alt="Asa Mitaka"
 />
 
-<!-- W/NTER — Manga Logo -->
+<!-- W/NTER -->
 <p align="center">
   <img
     src="imgr/w_nter.png"
@@ -18,16 +18,16 @@
   />
 </p>
 
-<!-- W/NTER — Manga Biography -->
+<!-- W/NTER — Biography -->
 <p align="center">
   <img
     src="imgr/winter-biov2.png"
-    width="460"
+    width="500"
     alt="Software Developer — Building things for the web, exploring new ideas and contributing to open source."
   />
 </p>
 
-<!-- ===================== MANGA SOCIAL BADGES ===================== -->
+<!-- ===================== SOCIAL BADGES ===================== -->
 
 <p align="center">
   <a href="https://github.com/wintercraxker">
