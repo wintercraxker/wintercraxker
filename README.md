@@ -3,7 +3,7 @@
 <!-- Asa Mitaka — Main Character -->
 <img
   src="imgr/Asa_Mitaka.png"
-  width="190"
+  width="200"
   align="right"
   alt="Asa Mitaka"
 />
