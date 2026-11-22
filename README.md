@@ -94,19 +94,6 @@
 
 </div>
 
-<!-- ===================== DISCORD ACTIVITY ===================== -->
-
-<h3 align="center">〢 Discord Activity</h3>
-
-<p align="center">
-  <a href="https://discord.com/users/1204265766128455781">
-    <img
-      src="https://lanyard.kyrie25.dev/api/1204265766128455781?waveColor=222&waveSpotifyWaveColor=212121&gradient=fff&borderRadius=25px&bg=000"
-      width="340"
-      alt="Discord Activity"
-    />
-  </a>
-</p>
 
 <!-- ===================== ASA CHIBI FOOTER ===================== -->
 
