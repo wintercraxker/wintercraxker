@@ -30,14 +30,6 @@
   </em>
 </p>
 
-<!-- Profile Views -->
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=wintercraxker&label=PROFILE%20VIEWS&color=292D36&labelColor=17191F&style=flat-square"
-    alt="Profile Views"
-  />
-</p>
-
 <!-- Social Links -->
 <p align="center">
   <a href="https://github.com/wintercraxker">
@@ -94,6 +86,13 @@
 
 </div>
 
+<!-- Profile Views -->
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=wintercraxker&label=PROFILE%20VIEWS&color=292D36&labelColor=17191F&style=flat-square"
+    alt="Profile Views"
+  />
+</p>
 
 <!-- ===================== ASA CHIBI FOOTER ===================== -->
 
