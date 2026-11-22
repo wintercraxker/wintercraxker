@@ -18,31 +18,45 @@
   />
 </p>
 
-<!-- Introduction -->
+<!-- W/NTER — Manga Biography -->
 <p align="center">
-  <strong>Software Developer</strong>
+  <img
+    src="imgr/winter-biov2.png"
+    width="460"
+    alt="Software Developer — Building things for the web, exploring new ideas and contributing to open source."
+  />
 </p>
 
-<p align="center">
-  <em>
-    Building things for the web, exploring new ideas
-    and contributing to open source.
-  </em>
-</p>
+<!-- ===================== MANGA SOCIAL BADGES ===================== -->
 
-<!-- Social Links -->
 <p align="center">
   <a href="https://github.com/wintercraxker">
-    <img src="https://img.shields.io/badge/GitHub-20232B?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img
+      src="imgr/badge-github.png"
+      width="110"
+      alt="GitHub"
+    />
   </a>
   <a href="https://discord.com/users/1213853205360943187">
-    <img src="https://img.shields.io/badge/Discord-20232B?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
+    <img
+      src="imgr/badge-discord.png"
+      width="110"
+      alt="Discord"
+    />
   </a>
   <a href="https://t.me/shelljess">
-    <img src="https://img.shields.io/badge/Telegram-20232B?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
+    <img
+      src="imgr/badge-telegram.png"
+      width="110"
+      alt="Telegram"
+    />
   </a>
   <a href="https://urhoeismine.live/">
-    <img src="https://img.shields.io/badge/Website-20232B?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" />
+    <img
+      src="imgr/badge-website.png"
+      width="110"
+      alt="Website"
+    />
   </a>
 </p>
 
@@ -86,7 +100,8 @@
 
 </div>
 
-<!-- Profile Views -->
+<!-- ===================== PROFILE VIEWS ===================== -->
+
 <p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=wintercraxker&label=PROFILE%20VIEWS&color=292D36&labelColor=17191F&style=flat-square"
