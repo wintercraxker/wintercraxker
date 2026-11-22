@@ -30,13 +30,6 @@
 <!-- ===================== SOCIAL BADGES ===================== -->
 
 <p align="center">
-  <a href="https://github.com/wintercraxker">
-    <img
-      src="imgr/badge-github.png"
-      width="110"
-      alt="GitHub"
-    />
-  </a>
   <a href="https://discord.com/users/1204265766128455781">
     <img
       src="imgr/badge-discord.png"
