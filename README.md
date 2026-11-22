@@ -59,7 +59,7 @@
 <p align="center">
   <img
     src="imgr/tech_stack.png"
-    width="650"
+    width="550"
     alt="W/NTER — Manga Tech Stack"
   />
 </p>
